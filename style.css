@@ -11,7 +11,7 @@
 	margin-bottom: 25px;
 }
 
-button {
+#plus {
 	position: fixed;
 	width: 50px;
 	height:50px;
@@ -20,4 +20,13 @@ button {
 	border: none;
 	cursor: pointer;
 	outline: none;
+}
+
+.minus {
+	float: right;
+	background: #888;
+	border: none;
+	outline: none;
+	cursor: pointer;
+
 }
